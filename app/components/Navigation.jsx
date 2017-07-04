@@ -18,7 +18,7 @@ var Navigation = () => {
 				</ul>
 			</div>
 			<div className="top-bar-right">
-				<ul ClassName="menu">
+				<ul className="menu">
 					<li className="menu-text">
 						Created by <a href="https://github.com/lacyjpr" target="_blank">JP Lacy</a>
 					</li>
