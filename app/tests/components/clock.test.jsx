@@ -41,4 +41,4 @@ describe('Clock', () =>{
 			expect(actual).toBe(expected);
 		});
 	});
-}); 
+});
